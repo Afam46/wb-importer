@@ -16,12 +16,12 @@
     cp .env.example .env
     composer install
 
-## Настройка БД
-
     # Отредактируйте файл .env, указав настройки базы данных
     # Хост и ключ для API также указываются в .env
-    
-    php artisan migrate
+
+## Чтобы очистить БД
+
+    php artisan migrate:fresh
 
 ## Импорт данных
 
