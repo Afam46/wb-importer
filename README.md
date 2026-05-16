@@ -7,7 +7,7 @@
 Хост: `mysql-wb-importer.alwaysdata.net`  
 База: `wb-importer_test`  
 Пользователь: `wb-importer`  
-Пароль: (напишу отдельно)
+Пароль: `4642542123Qq!`
 
 ## Установка
 
