@@ -2,13 +2,6 @@
 
 Импорт данных из API Wildberries (тестовое задание).
 
-## Доступы к БД (для проверки)
-
-Хост: `mysql-wb-importer.alwaysdata.net`  
-База: `wb-importer_test`  
-Пользователь: `wb-importer`  
-Пароль: `4642542123Qq!`
-
 ## Установка
 
     git clone https://github.com/Afam46/wb-importer.git
