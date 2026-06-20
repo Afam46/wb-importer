@@ -1,6 +1,6 @@
 # WB API Importer
 
-Импорт данных из API Wildberries (тестовое задание).
+Импорт данных из API Wildberries
 
 ## Установка
 
