@@ -16,7 +16,7 @@
     DB_PORT=3306
     DB_DATABASE=wb-importer_test 
     DB_USERNAME=wb-importer
-    DB_PASSWORD=4642542123Qq!
+    DB_PASSWORD=
     
     # Хост и ключ для API также указываются в .env
 
